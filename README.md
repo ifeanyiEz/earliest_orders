@@ -1,5 +1,5 @@
 # SQL ORDER BY
-## Sorting data by a specific column
+Sorting data by a specific column
 
 ### Earliest Orders
 The 10 earliest orders in the Parch & Posey database
